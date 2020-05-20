@@ -1,3 +1,4 @@
+#Used to scroll on two videos for unlimited views
 from pyautogui import scroll
 from time import sleep
 

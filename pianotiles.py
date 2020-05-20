@@ -3,8 +3,8 @@ import pyautogui
 import time 
 import numpy as np  
 time.sleep(3)
+#set each corner value to your monitor's pixel width & height
 baseHeight = 235
-
 corner1 = 472
 corner2 = 581
 corner3 = 694
