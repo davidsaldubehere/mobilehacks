@@ -4,6 +4,7 @@ from time import sleep
 #Waits 3 seconds before beginning
 sleep(3)
 delay=.7
-for i in range(100):
+score=100
+for i in range(score):
     click()
     sleep(delay)
